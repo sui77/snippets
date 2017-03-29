@@ -29,3 +29,4 @@ dpkg -i percona-release_0.1-4.$(lsb_release -sc)_all.deb
 apt-get update
 apt-get install percona-server-server-5.6
 </code>
+
